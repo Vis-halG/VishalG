@@ -1,7 +1,9 @@
 # VishalG - Projects
 Clone Project Using - (HTML, CSS, Javascript, ReactJS)
 
-1 - ( Book My Show ) link :- https://book-my-show-clone-4tn1-2ibrreyyp-vishalgs-projects.vercel.app/
+1 - ( Book My Show ) link :- https://bookmyshow-clone-kappa.vercel.app/
+
+2- ( Spotify ) Link :- https://spotify-clone-mauve-eight-16.vercel.app/
 
 Project Using - (HTML, CSS, Javascript)
 
